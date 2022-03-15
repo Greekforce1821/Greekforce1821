@@ -4,7 +4,7 @@
 - 🏆  I'm currently trying to learning everything 🤣
 - ⭐  2022 Goals: Contribute more to Open Source projects
 - ⚡ Proud Member of the "Ionian IEEE Student Branch" !
-- 🏆 APCommittIEEE at @ionian-uni-ieee
+- 🏆 APCommittIEEE at [@ionian-uni-ieee](https://github.com/ionian-uni-ieee)
 
 
 
