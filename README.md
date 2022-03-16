@@ -6,7 +6,6 @@
 - ⚡ Proud Member of the "Ionian IEEE Student Branch" !
 - 🏆 APCommittIEEE at [@ionian-uni-ieee](https://github.com/ionian-uni-ieee)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greekforce1821)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greekforce1821&show_icons=true&theme=radical)
 
 
