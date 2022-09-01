@@ -14,7 +14,7 @@
 
 - 👨‍ Proud Member of the "Ionian IEEE Student Branch" !
 
-- 🏆 APCommittIEEE at [ionian-uni-ieee](https://github.com/ionian-uni-ieee)
+- 🏆 APCommittIEEE at @[ionian-uni-ieee](https://github.com/ionian-uni-ieee)
 
 ## 🚀 Languages and Tools:
 
