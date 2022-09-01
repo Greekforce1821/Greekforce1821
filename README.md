@@ -14,9 +14,7 @@
 
 - 👨‍ Proud Member of the "Ionian IEEE Student Branch" !**
 
-- 🏆 APCommittIEEE at @ionian-uni-ieee**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- 🏆 APCommittIEEE at @ionian-uni-ieee **
 
 ## 🚀 Languages and Tools:
 
