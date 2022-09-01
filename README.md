@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- ⚡ I'm currently working on a university project (using python)!**
+- ⚡ I'm currently working on a university project (using python)!
 
-- 🏆 I'm currently trying to learning everything 🤣**
+- 🏆 I'm currently trying to learning everything 🤣
 
-- ⭐ 2022 Goals: Contribute more to Open Source projects**
+- ⭐ 2022 Goals: Contribute more to Open Source projects
 
-- 👨‍ Proud Member of the "Ionian IEEE Student Branch" !**
+- 👨‍ Proud Member of the "Ionian IEEE Student Branch" !
 
-- 🏆 APCommittIEEE at @ionian-uni-ieee [https://github.com/ionian-uni-ieee]**
+- 🏆 APCommittIEEE at [https://github.com/ionian-uni-ieee]@ionian-uni-ieee
 
 ## 🚀 Languages and Tools:
 
