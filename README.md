@@ -10,7 +10,7 @@
 
 - 🏆 I'm currently trying to learning everything 🤣
 
-- ⭐ 2022 Goals: Contribute more to Open Source projects
+- ⭐ 2023 Goals: Contribute more to Open Source projects
 
 - 👨‍ Proud Member of the "Ionian IEEE Student Branch" !
 
