@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- ⚡ I'm currently working on a university project [HCI](https://github.com/Greekforce1821/hci/tree/2021098/projects/2021098/) !
+- ⚡ I'm currently working on a university project [wmhack2023](https://github.com/wmhack2023/wmhack2023.github.io) !
 
 - 🏆 I'm currently trying to learning everything 🤣
 
