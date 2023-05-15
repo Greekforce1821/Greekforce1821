@@ -49,6 +49,8 @@
 <br/>
 <br/>
 
+![tryhackme stats](https://raw.githubusercontent.com/anubis117/anubis117/master/assets/thm_propic.png)
+
 <a href="[![Spyros Kokotos's github activity graph](https://activity-graph.herokuapp.com/graph?username=Greekforce1821)" /></a>
 
 <br/>
