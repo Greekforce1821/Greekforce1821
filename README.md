@@ -8,6 +8,8 @@
 
 - ⚡ I'm currently working on a university project [Database I](https://github.com/Greekforce1821/Database-I) !
 
+- ⚡ I'm currently maintaining the website of `Wikimedia Hackathon 2023` [wmhack2023](https://github.com/wmhack2023/wmhack2023.github.io) !
+
 - 🏆 I'm currently trying to learning everything 🤣
 
 - ⭐ 2023 Goals: Contribute more to Open Source projects
