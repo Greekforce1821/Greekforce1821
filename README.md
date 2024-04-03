@@ -8,7 +8,7 @@
 
 - ⚡ I'm currently working on a university project [Software Technologies]() !
 
-- ⚡ I'm currently maintaining the website of The Mission of Informatics: Desperate John [desperatejohn](https://john.skokotos.com) !
+- ⚡ I'm currently maintaining the website of [The Mission of Informatics: Desperate John](https://john.skokotos.com)!
 
 - 🏆 I'm currently trying to learning everything 🤣
 
