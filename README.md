@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- ⚡ I'm currently working on a university project [Database I](https://github.com/Greekforce1821/Database-I) !
+- ⚡ I'm currently working on a university project [Software Technologies]() !
 
-- ⚡ I'm currently maintaining the website of Wikimedia Hackathon 2023 [wmhack2023](https://github.com/wmhack2023/wmhack2023.github.io) !
+- ⚡ I'm currently maintaining the website of The Mission of Informatics: Desperate John [desperatejohn](https://john.skokotos.com) !
 
 - 🏆 I'm currently trying to learning everything 🤣
 
-- ⭐ 2023 Goals: Contribute more to Open Source projects
+- ⭐ 2024 Goals: Contribute more to Open Source projects
 
 - 👨‍ Proud Member of the "Ionian IEEE Student Branch" !
 
