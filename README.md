@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- ⚡ I'm currently working on a university project [Software-Engineering]() !
+- ⚡ I'm currently working on a university project [Internet Technologies]() !
 
 - ⚡ I'm currently maintaining the website of [The Mission of Informatics: Desperate John](https://john.skokotos.com)!
 
