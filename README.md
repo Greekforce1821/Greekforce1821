@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- ⚡ I'm currently working on a university project [Internet Technologies]() !
+- ⚡ I am currently conducting research for my Bachelor's Thesis, which is grounded in the methodologies and findings of the [NITRO Project](https://nitro-project.eu/), focusing on the intersection of cybersecurity and advanced 5G network infrastructures.
 
 - ⚡ I'm currently maintaining the website of [The Mission of Informatics: Desperate John](https://john.skokotos.com)!
 
