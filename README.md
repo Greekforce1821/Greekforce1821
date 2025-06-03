@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- ⚡ I am currently conducting research for my Bachelor's Thesis, which is grounded in the methodologies and findings of the [NITRO Project](https://nitro-project.eu/), focusing on the intersection of cybersecurity and advanced 5G network infrastructures.
+- ⚡ Waiting patiently to defend my thesis entitled: "Training and Prevention of Cybersecurity attacks on 5G Networks through a CyberRange Platform: A Comprehensive Scientic Approach in Cybersecurity".
 
 - ⚡ I'm currently maintaining the website of [The Mission of Informatics: Desperate John](https://john.skokotos.com)!
 
