@@ -11,7 +11,9 @@
 
 **Spyridon Eftychios Kokotos** · [`@Greekforce1821`](https://github.com/Greekforce1821)
 
-B.Sc. Informatics · Ionian University · Greece
+**M.Sc. Student in Digital Applications and Innovation** · Department of Informatics, Ionian University
+
+B.Sc. in Informatics · Ionian University · Greece
 
 *Developing dependable software, exploring secure systems, and contributing to research.*
 
@@ -39,15 +41,24 @@ B.Sc. Informatics · Ionian University · Greece
 
 ## About Me
 
-I'm a **software developer** and **B.Sc. Informatics graduate of Ionian University**, with interests spanning full-stack engineering, cybersecurity, identity systems, data platforms, and academic research. I enjoy taking technically demanding ideas from an initial concept to a working, maintainable application.
+I'm a **software developer** and **B.Sc. graduate in Informatics**, currently pursuing an **M.Sc. in Digital Applications and Innovation** at the **Department of Informatics, Ionian University**. My interests span full-stack engineering, cybersecurity, identity systems, data platforms, and academic research. I enjoy taking technically demanding ideas from an initial concept to a working, maintainable application.
 
 - **Building:** **IonWings**, a flight-data platform covering four airports in the Ionian region.
 - **Leading:** Conference organization and technical infrastructure as **Head Organizer & IT Coordinator of [IUSCI](https://iusci.di.ionio.gr/?lang=en)**.
 - **Researching:** 5G network security, cyber-range environments, information privacy, and language technologies.
 - **Previously:** Cybersecurity internship at **PDMFC**, Lisbon, involving Python automation, identity management, Apereo CAS, and Active Directory.
-- **Academic path:** B.Sc. in Informatics and admission to the M.Sc. in **Digital Applications and Innovation**, Ionian University.
+- **Graduate studies:** M.Sc. student in **Digital Applications and Innovation**, Department of Informatics, Ionian University.
 
 > **Areas of interest:** Secure software architecture · Full-stack platforms · Automation and data engineering · Network security · Open-source collaboration
+
+---
+
+## Education
+
+| Degree | Institution | Status |
+| :--- | :--- | :--- |
+| **M.Sc. in Digital Applications and Innovation** | Department of Informatics, **Ionian University** | **Current postgraduate student** |
+| **B.Sc. in Informatics** | Department of Informatics, **Ionian University** | **Graduate** |
 
 ---
 
@@ -134,7 +145,7 @@ My research interests include **information privacy, cybersecurity education, an
 ## Academic & Open-Source Community
 
 - **[IUSCI](https://iusci.di.ionio.gr/?lang=en)** - Head Organizer & IT Coordinator.
-- **[Ionian University](https://ionio.gr/en/)** - Department of Informatics alumnus.
+- **[Ionian University](https://ionio.gr/en/)** - M.Sc. student and B.Sc. graduate, Department of Informatics.
 - **[IEEE Ionian University Student Branch](https://github.com/ionian-uni-ieee)** - Volunteer and community contributor.
 - **[GreekLUG](https://www.greeklug.gr/)** - Member of the Greek Linux Users Group.
 
